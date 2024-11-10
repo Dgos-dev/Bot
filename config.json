@@ -2,13 +2,13 @@
   "PAGE_ACCESS_TOKEN": "",
   "VERIFY_TOKEN": "WEBHOOK",
   "ADMINS": [
-    ""
+    "100094202834302"
   ],
-  "BOTNAME": "BOTNAME",
+  "BOTNAME": "🔥Fire🔥",
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "📛 Donrel 📛",
     "TITLE": "PAGEBOT",
     "HTML": [
       "#CE2F16",
